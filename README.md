@@ -1,5 +1,5 @@
-             - 👋 Hello my fellow computer people I’m @Raidan31
-                  - 👀 I'm interested in Python and Data Analysis
+                   👋 Hello my fellow computer people I’m @Raidan31
+                   👀 I'm interested in Python and Data Analysis
                                                                          
 
 ![gatinho-gato](https://user-images.githubusercontent.com/114839023/197120941-cc264d9d-d795-4d5b-8704-0807554a2c3d.gif)
