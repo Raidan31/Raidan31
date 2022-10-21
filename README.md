@@ -1,4 +1,4 @@
-- 👋 Hello my fellow computer people, I’m @Raidan31
+- 👋 Hello my fellow computer people I’m @Raidan31
 - 👀 I'm interested in Python and Data Analysis
 - 🌱 I'm currently learning to operate on github
 - 📫 How to reach me ...
