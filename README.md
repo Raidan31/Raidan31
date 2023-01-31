@@ -4,7 +4,7 @@
                    adicionar ao repositório o meu desenvolvimento em Frontend (HTML - CSS - JS)
                                                                          
 
-<p>![gatinho-gato](https://user-images.githubusercontent.com/114839023/197120941-cc264d9d-d795-4d5b-8704-0807554a2c3d.gif)<p/>
+![gatinho-gato](https://user-images.githubusercontent.com/114839023/197120941-cc264d9d-d795-4d5b-8704-0807554a2c3d.gif)
                             
 
 <!---
