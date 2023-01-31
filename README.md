@@ -1,7 +1,7 @@
-                   Eae galeraaaaaa meu nome é Raidan, e essse é o meu repositório!
+                   Eae galeraaaaaa meu nome é Raidan, e esse é o meu repositório!
                    Tenho interresse em me tornar um DEV fullstack!
                    Então comecei apprendendo PYTHON como base em Backend e planejo
-                   adicionar o meu desenvolvimento em Frontend (HTML - CSS - JS)
+                   adicionar ao repositório o meu desenvolvimento em Frontend (HTML - CSS - JS)
                                                                          
 
 ![gatinho-gato](https://user-images.githubusercontent.com/114839023/197120941-cc264d9d-d795-4d5b-8704-0807554a2c3d.gif)
